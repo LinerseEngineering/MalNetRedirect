@@ -7,3 +7,4 @@ HOW DOES IT WORK?
 
 <img width="222" height="515" alt="image" src="https://github.com/user-attachments/assets/d4c22de9-1f75-44aa-827e-0413050294f6" />
 
+<img width="1722" height="755" alt="image" src="https://github.com/user-attachments/assets/9a8d158c-1980-4220-aed2-20b091e36252" />
