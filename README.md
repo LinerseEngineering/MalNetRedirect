@@ -7,4 +7,6 @@ HOW DOES IT WORK?
 <div style="display: flex;flex-wrap: nowrap;gap: 0;">
 <img width="222" height="515" alt="image" src="https://github.com/user-attachments/assets/d4c22de9-1f75-44aa-827e-0413050294f6" />
 <img width="700"height="415" alt="image" src="https://github.com/user-attachments/assets/9a8d158c-1980-4220-aed2-20b091e36252" />  
+  <img width="344" height="512" alt="image" src="https://github.com/user-attachments/assets/0eea6476-052d-44ee-870b-79ff7435d0b4" />
+
 </div>
